@@ -26,30 +26,7 @@ Actively seeking **internship opportunities** to apply my skills, gain industry 
 - **B.Tech – Computer Science & Engineering**  
   RGUKT (2023 – 2027) | **CGPA: 8.8**
 
-### 🛠️ Technical Skills
-
-**Programming Languages**  
-- Java, Python, HTML, CSS, JavaScript  
-
-**Web Development**  
-- React, jQuery, Bootstrap  
--  Spring Boot, Thymeleaf, PHP  
-
-**Machine Learning & AI**  
-- Scikit-learn, Pandas, NumPy, Matplotlib  
-- LangChain  
-- Basic knowledge of TensorFlow & PyTorch  
-
-**Databases & Tools**  
-- MySQL, MongoDB  
-- Git, GitHub, AI Chatbot Frameworks  
-
-**Core Concepts**  
-- Data Structures & Algorithms  
-- Neural Network Fundamentals  
-
----
-
+  
 ## 🌐 Socials:
 - 📧 Email: **vyshnavich90@gmail.com**  
 - 💻 GitHub:(https://github.com/chvyshnavi12)  
