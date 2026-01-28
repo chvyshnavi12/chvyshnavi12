@@ -24,7 +24,7 @@ Actively seeking **internship opportunities** to apply my skills, gain industry 
 
 ### 🎓 Education
 - **B.Tech – Computer Science & Engineering**  
-  RGUKT (2023 – 2027) | **CGPA: 8.8**
+  RGUKT (2023 – 2027)
 
   
 ## 🌐 Socials:
